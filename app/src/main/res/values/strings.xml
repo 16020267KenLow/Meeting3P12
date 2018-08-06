@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meeting3</string>
+    <string name="website">Choose one Website</string>
+    <string-array name="websites">
+        <item>Facebook</item>
+        <item>Twitter</item>
+    </string-array>
+</resources>
